@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <a href="/#/es">Go to Spain</a>
+    <a href="/#/es">Go to Africa</a>
   </div>
 </template>
 
